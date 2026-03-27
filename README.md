@@ -1,2 +1,0 @@
-# hackathon-genai
-hackathon-genai
